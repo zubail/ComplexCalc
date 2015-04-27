@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Complex Calculator</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="oper_arit">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+</resources>
